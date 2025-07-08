@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "jagdish",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "chaman": "echo \"this is good\" ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "accessibility": "^6.0.6",
+    "chalk": "^5.4.1",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "knock-knock-jokes": "^1.7.0"
+  }
+}
